@@ -24,4 +24,4 @@ Foi aplicado o Tailwind CSS para criar um design moderno e eficiente.
 1. Clone este repositório:
 
    ```bash
-  
+   git clone https://github.com/EsleyLeal/E-commerce.git
